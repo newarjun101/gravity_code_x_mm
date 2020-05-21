@@ -54,7 +54,7 @@ class _BottomNavMainPageState extends State<BottomNavMainPage> {
           //For account
           BottomNavigationBarItem(
               icon: Icon(Icons.account_circle,color: Colors.black45,),
-              title: Text("Account"))
+
         ],
         currentIndex: _selectedIndext,
         selectedItemColor: Colors.blue,
